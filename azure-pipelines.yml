@@ -14,7 +14,7 @@ steps:
   inputs:
     testTarget: 'TestSet'
     orchestratorConnection: 'UipathConnection'
-    testSet: 'UiBank_LoanCheck'
+    testSet: 'tst'
     folderName: 'zaki'
     traceLevel: 'Information'
     attachRobotLogs: true

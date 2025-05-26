@@ -14,7 +14,7 @@ steps:
   inputs:
     testTarget: 'TestSet'
     orchestratorConnection: 'UipathConnection'
-    testSet: 'tst'
+    testSet: 'UiBankApplicationTesting_Exercise'
     folderName: 'zaki'
     traceLevel: 'Information'
     attachRobotLogs: true

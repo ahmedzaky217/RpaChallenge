@@ -17,4 +17,4 @@ steps:
     testSet: 'UiBankApplicationTesting_Exercise'
     folderName: 'zaki'
     traceLevel: 'Information'
-    attachRobotLogs: true
+    attachRobotLogs: false
